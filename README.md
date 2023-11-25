@@ -1,5 +1,6 @@
 # Google_App_Store_Exploratory_Data_Analysis
 Google play Store Data Analysis
+
 We started by importing essential Python modules, including pandas, numpy, matplotlib.pyplot, and seaborn. These powerful tools became our companions as we navigated through the vast sea of data.
 As we noted in our analysis, the head of the DataFrame consist of columns such as "App," "Category," "Rating," "Reviews," "Size," "Installs," "Type," "Price," "Content Rating," "Genres," "Last Updated," "Current Ver," and "Android Ver." Each column held valuable insights waiting to be extracted.
 Now, let's dive into some of the computed results and key findings that emerged from our analysis:
